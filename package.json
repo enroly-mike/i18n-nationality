@@ -44,7 +44,8 @@
     "node": ">= 6"
   },
   "scripts": {
-    "test": "make test"
+    "test": "make test",
+    "deploy": "npm publish"
   },
   "bugs": {
     "url": "https://github.com/sourcecode911/i18n-nationality/issues"
